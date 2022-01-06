@@ -1,0 +1,37 @@
+body {
+    background-color: burlywood;
+}
+
+.heading {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.recipesList {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    text-align: center;
+}
+
+
+
+.heading2,
+.paragraph,
+.Ingredients,
+.list,
+.steps {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+
+.picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
